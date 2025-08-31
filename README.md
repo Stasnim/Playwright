@@ -1,2 +1,2 @@
 # Playwright
-Used python
+Used Python
