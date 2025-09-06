@@ -1,0 +1,35 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# ---- Virtualenv ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Playwright ----
+playwright-report/
+test-results/
+blob-report/
+html-report/
+trace.zip
+traces/
+videos/
+screenshots/
+
+# ---- Reports ----
+reports/
+
+# ---- IDE / Editor ----
+.idea/
+.vscode/
+*.iml
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
